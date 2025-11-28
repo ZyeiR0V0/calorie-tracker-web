@@ -21,10 +21,11 @@
 
 ## 📸 项目演示 (Screenshots)
 
-*(在这里放几张你网站的截图或 GIF 动图，这非常重要！)*
 
 | 首页 / 仪表盘 | 食物录入界面 |
-| :---: | :---: |
+| ![e6943dcfc9c4623cd9ab267404baf66b](https://github.com/user-attachments/assets/015c3b3a-4c7f-4c88-a7ea-6534ca6b2547)
+ | ![da74fce9655aff48bed733d1c71fb9e9](https://github.com/user-attachments/assets/06e3b726-a42c-4a4c-953d-111808e4e2a5)
+ |
 | ![Dashboard Shot](path/to/image1.png) | ![Input Shot](path/to/image2.png) |
 
 ## 🛠️ 技术栈 (Tech Stack)
