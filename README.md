@@ -45,3 +45,14 @@
 * [Postman]
 * [VS Code]
 
+# 启动后端
+npm run start
+
+# 启动前端
+npm run dev
+
+# 启动后端
+npm run start
+
+# 启动前端
+npm run dev
